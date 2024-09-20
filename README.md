@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Radu. I'm a cybersecurity student with interesent into reverse engineering.
+
 ![](https://komarev.com/ghpvc/?username=ronutu&color=46915c)
 
 <a href="">
