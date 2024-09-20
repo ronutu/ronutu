@@ -10,8 +10,8 @@
 </a>
 
 <a href="https://github.com/ronutu/fmi-unibuc-licenta">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronutu&repo=fmi-unibuc-licenta&theme=dark&bg_color=00000000&show_owner=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronutu&repo=fmi-unibuc-licenta&theme=dark&bg_color=00000000&show_owner=true" />
 </a>
 <a href="https://github.com/ronutu/fmi-unibuc-master">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronutu&repo=fmi-unibuc-master&theme=dark&bg_color=00000000&show_owner=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronutu&repo=fmi-unibuc-master&theme=dark&bg_color=00000000&show_owner=true" />
 </a>
