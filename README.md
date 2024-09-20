@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ronutu&color=46915c)
 
-My name is Radu. I'm a cybersecurity student with interesent into reverse engineering.
+Cybersecurity student with a focus on Binary Exploitation and Reverse Engineering.
 
 <a href="">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=ronutu&show_icons=true&theme=dark&bg_color=00000000&rank_icon=percentile&include_all_commits=true&custom_title=Radu's%20Github%20Stats" />
