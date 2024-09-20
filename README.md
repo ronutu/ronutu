@@ -11,6 +11,12 @@
 
 <br><br>
 
+<a href="https://github.com/ronutu/ctf-writeups">
+  <img height=128.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronutu&repo=ctf-writeups&theme=dark&bg_color=00000000&show_owner=true" />
+</a>
+
+<br><br>
+
 <a href="https://github.com/ronutu/fmi-unibuc-licenta">
   <img height=128.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronutu&repo=fmi-unibuc-licenta&theme=dark&bg_color=00000000&show_owner=true" />
 </a>
