@@ -9,6 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats-rho-ruddy-56.vercel.app/api/top-langs/?username=ronutu&theme=dark&bg_color=00000000&layout=compact&langs_count=8" />
 </a>
 
+<div style="margin-bottom: 20px;"></div>
 
 
 <a href="https://github.com/ronutu/fmi-unibuc-licenta">
