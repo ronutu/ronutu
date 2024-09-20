@@ -5,3 +5,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronutu&repo=ctf-writeups&theme=dark&bg_color=00000000&show_owner=true)](https://github.com/ronutu/ctf-writeups)
 
 [![Top Langs](https://github-readme-stats-rho-ruddy-56.vercel.app/api/top-langs/?username=ronutu&theme=dark&bg_color=00000000&layout=compact&langs_count=8)]()
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
