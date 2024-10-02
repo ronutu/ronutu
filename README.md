@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 ![](https://komarev.com/ghpvc/?username=ronutu&color=46915c)
 
