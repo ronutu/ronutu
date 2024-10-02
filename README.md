@@ -10,9 +10,3 @@ Cybersecurity student with a focus on Binary Exploitation and Reverse Engineerin
 <a href="">
   <img height=185 align="center" src="https://github-readme-stats-rho-ruddy-56.vercel.app/api/top-langs/?username=ronutu&theme=dark&bg_color=00000000&layout=compact&langs_count=8" />
 </a>
-
-<br><br>
-
-<a href="https://github.com/ronutu/ctf-writeups">
-  <img height=128.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronutu&repo=ctf-writeups&theme=dark&bg_color=00000000&show_owner=true" />
-</a>
