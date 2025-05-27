@@ -1,4 +1,4 @@
-<!--Text## Hi there
+Text## Hi there
 
 ![](https://komarev.com/ghpvc/?username=ronutu&color=46915c)
 
@@ -10,4 +10,3 @@ Cybersecurity student with a focus on Binary Exploitation and Reverse Engineerin
 <a href="">
   <img height=185 align="center" src="https://github-readme-stats-pszo.vercel.app/api/top-langs/?username=ronutu&theme=dark&bg_color=00000000&layout=compact&langs_count=8" />
 </a>
--->
